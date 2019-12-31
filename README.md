@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm i -G bulk-translate
+npm i -g bulk-translate
 ```
 
 ## Usage
