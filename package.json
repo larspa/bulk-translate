@@ -1,17 +1,25 @@
 {
-  "name": "translate-util",
+  "name": "bulk-translate",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
+  "files": [
+    "lib/**/*",
+    "bin/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "smtranslate": "./bin/translate.js"
+    "bulk-translate": "./bin/translate.js"
   },
   "preferGlobal": true,
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larspa/bulk-translate/issues"
+  },
+  "homepage": "https://github.com/larspa/bulk-translate#readme",
   "dependencies": {
     "@vitalets/google-translate-api": "^3.0.0",
     "chalk": "^3.0.0",
