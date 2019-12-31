@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm i -G @larspa/bulk-translate
+npm i -G bulk-translate
 ```
 
 ## Usage
@@ -29,5 +29,5 @@ Options
 
 [MIT](http://vjpr.mit-license.org)
 
-[npm-image]: https://img.shields.io/npm/v/@larspa/bulk-translate.svg
-[npm-url]: https://npmjs.org/package/@larspa/bulk-translate
+[npm-image]: https://img.shields.io/npm/v/bulk-translate.svg
+[npm-url]: https://npmjs.org/package/bulk-translate
